@@ -28,3 +28,6 @@
 以一个单机工程为例，简单实现了集成Swagger生成API
 	http://localhost:8002/swagger-ui.html#/
 	http://localhost:8002/swagger-ui.html#/swagger-demo-controller
+	
+# SpringBootSQL
+基于application.properties配置多环境
